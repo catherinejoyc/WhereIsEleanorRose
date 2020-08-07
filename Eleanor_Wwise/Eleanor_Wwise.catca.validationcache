@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="94">
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1585933322" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Attenuations\Default Work Unit.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Audio Devices\Default Work Unit.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Conversion Settings\Default Work Unit.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Effects\Default Work Unit.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Effects\Factory Auro Headphone.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Effects\Factory Effects.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Effects\Factory iZotope Box Modeler.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Effects\Factory iZotope Delay.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Effects\Factory iZotope Dynamics.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Effects\Factory iZotope Filters.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Effects\Factory McDSP Effects.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Eleanor_Wwise.catca.wsettings" DateLow="1596034863" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Eleanor_Wwise.wproj" DateLow="1579088215" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Events\Default Work Unit.wwu" DateLow="1588005382" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Game Parameters\Default Work Unit.wwu" DateLow="1584715585" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Game Parameters\Factory Motion.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1596034863" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1577965807" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Mixing Sessions\Default Work Unit.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Modulators\Default Work Unit.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Presets\Default Work Unit.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Queries\Default Work Unit.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Queries\Factory Queries.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\SoundBanks\Default Work Unit.wwu" DateLow="1588005561" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\States\Default Work Unit.wwu" DateLow="1585923509" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Switches\Default Work Unit.wwu" DateLow="1585299919" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Triggers\Default Work Unit.wwu" DateLow="1584262263" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Virtual Acoustics\Default Work Unit.wwu" DateLow="1574260219" DateHigh="0"/>
+	<ValidationCacheItem File="D:\5AHMNG\Eleanor_Repository\Eleanor_Wwise\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1574260219" DateHigh="0"/>
+</ValidationCache>
