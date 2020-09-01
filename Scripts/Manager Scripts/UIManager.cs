@@ -223,12 +223,12 @@ public class UIManager : MonoBehaviour
         while (dialog.text != targetSpeech)
         {
             dialog.text += targetSpeech[dialog.text.Length];
-            yield return new WaitForFixedUpdate();
+            yield return new WaitForSeconds(0.3f);
         }
 
         isWaitingForUserInput = true;
         while (isWaitingForUserInput)
-            yield return new WaitForFixedUpdate();
+            yield return new WaitForSeconds(0.3f);
 
         StopSpeaking();
     }
