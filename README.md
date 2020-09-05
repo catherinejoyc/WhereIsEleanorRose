@@ -1,3 +1,6 @@
+#NOTE
+This is not the original repository but since it is our diploma project, its original repository is on our school's private server (which we no longer have access to).
+
 <div align="center">
 
 Where is Eleanor Rose?
